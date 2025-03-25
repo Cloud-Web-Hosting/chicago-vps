@@ -3,8 +3,8 @@
    <head>
      <meta charset="UTF-8" />
      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-     <title>website-wizard-seeker</title>
-     <meta name="description" content="Lovable Generated Project" />
+     <title>Chicago VPS Hosting | High-Performance Virtual Private Servers</title>
+     <meta name="description" content="Premium Chicago VPS Hosting with 99.9% uptime guarantee. High-performance Virtual Private Servers located in Chicago's premier data centers." />
      <meta name="author" content="Lovable" />
      <title>Chicago VPS Hosting | High-Performance Virtual Private Servers</title>
      <meta name="description" content="Premium Chicago VPS Hosting with 99.9% uptime guarantee. High-performance Virtual Private Servers located in Chicago's premier data centers." />
